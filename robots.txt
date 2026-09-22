@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ok7p0i.cn/sitemap.xml
